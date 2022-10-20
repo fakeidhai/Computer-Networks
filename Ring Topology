@@ -1,0 +1,11 @@
+A ring topology is a network configuration where device connections create a circular data path. Each networked device is connected to two others, 
+like points on a circle. 
+Together, devices in a ring topology are referred to as a ring network.
+
+In a ring network, packets of data travel from one device to the next until they reach their destination. 
+Most ring topologies allow packets to travel only in one direction, called a unidirectional ring network. Others permit data to move in either direction, called bidirectional.
+
+The major disadvantage of a ring topology is that if any individual connection in the ring is broken, the entire network is affected.
+
+Ring topologies may be used in either LANs (local area networks) or WANs (wide area networks). Depending on the network card used in each computer of the ring topology,
+a coaxial cable or an RJ-45 network cable is used to connect computers together.
