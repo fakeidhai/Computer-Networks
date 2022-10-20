@@ -1,0 +1,9 @@
+Star Topology
+Star topology has become the dominant physical topology for LANs.
+The star was first popularized by ARCNET, and later adopted by Ethernet.
+Each node is connected directly to a central device such as a hub or a switch.
+
+In a star topology configuration, the remote branches can communicate securely with the corporate headquarters or central site.
+However, intercommunication between the branches is not permitted. Such a configuration could be deployed in a bank network so that compromise of
+one branch will not immediately lead to the compromise of a second branch without being detected. To gain access to a second branch, 
+the attacker would have to first compromise the central network that would hopefully be able to detect such an attack.
